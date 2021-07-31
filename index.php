@@ -67,7 +67,11 @@
 
     <!-- 7. Sukurkite programą, kuri parodytų, kokioje naršyklėje yra atidarytas puslapis ir pagal tai atvaizduotų naršyklės logotipą. -->
 
-    
+    <p> Narsykle</p>
+
+    <form action="narsykle.php" method="post">
+        <button type="submit">Patvirtink</button>
+    </form>
 
         
 </body>
